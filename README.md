@@ -1,4 +1,4 @@
-# Scandit CameraView
+# Scandit Camera View
 
 Xamarin.Forms Supported Camera View For Scandit Barcode Scanning Library
 
